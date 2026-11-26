@@ -157,4 +157,4 @@ Most "game does not boot" reports are one of those two.
 
 ---
 
-*Switch Emulator · Updated 2026-11-25 · Shared under the MIT License*
+*Switch Emulator · Updated 2026-11-26 · Shared under the MIT License*
